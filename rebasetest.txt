@@ -1,0 +1,4 @@
+This is a rebase test so I can learn git rebasing, and other
+git tricks.
+
+Lets maek a mistake
